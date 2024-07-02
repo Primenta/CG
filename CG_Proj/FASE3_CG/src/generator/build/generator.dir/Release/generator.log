@@ -1,0 +1,21 @@
+﻿  generator.cpp
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(133,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(134,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(136,26): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(137,26): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(157,32): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(163,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(238,37): warning C4244: 'argumento': conversão de 'double' para '_Ty', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(238,37): warning C4244:         with
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(238,37): warning C4244:         [
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(238,37): warning C4244:             _Ty=float
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(238,37): warning C4244:         ]
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(209,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(222,32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(237,32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(307,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(364,24): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(370,21): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(384,30): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(384,22): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  generator.vcxproj -> C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\build\Release\generator.exe

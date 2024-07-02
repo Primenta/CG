@@ -1,0 +1,3 @@
+C:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src/out/build/x64-Debug/CMakeFiles/class1.dir
+C:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

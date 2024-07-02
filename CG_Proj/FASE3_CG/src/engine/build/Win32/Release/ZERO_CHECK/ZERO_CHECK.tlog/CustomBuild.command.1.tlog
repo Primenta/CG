@@ -1,0 +1,10 @@
+^C:\USERS\GIGABYTE\DESKTOP\TESTE\TESTE2\SRC\SRC\ENGINE\BUILD\CMAKEFILES\4D1715196DE2FB6464AFB17B5B92E58A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/GIGABYTE/Desktop/teste/teste2/src/src/engine -BC:/Users/GIGABYTE/Desktop/teste/teste2/src/src/engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/GIGABYTE/Desktop/teste/teste2/src/src/engine/build/engine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

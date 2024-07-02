@@ -1,0 +1,13 @@
+﻿  generator.cpp
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(228,32): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(237,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(242,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(307,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(325,78): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(325,54): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(326,86): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(326,58): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(558,21): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(572,30): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\generator.cpp(572,22): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  generator.vcxproj -> C:\Users\GIGABYTE\Desktop\teste\teste2\src\src\generator\build\Release\generator.exe

@@ -1,0 +1,12 @@
+﻿  generator.cpp
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(117,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(118,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(120,26): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(121,26): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(141,32): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(147,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(206,24): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(212,21): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(226,30): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\generator.cpp(226,22): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  generator.vcxproj -> C:\Users\marga\OneDrive\Ambiente de Trabalho\CG\src\generator\build\Release\generator.exe

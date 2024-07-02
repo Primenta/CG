@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pedro\OneDrive\Ambiente de Trabalho\3ano\2sem\CG\trabalho\CG\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pedro\OneDrive\Ambiente de Trabalho\3ano\2sem\CG\trabalho\CG\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{595EBFC8-8C3A-3BD8-BA53-5EE2683AA056}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

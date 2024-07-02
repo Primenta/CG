@@ -1,0 +1,10 @@
+^C:\USERS\PEDRO\ONEDRIVE\AMBIENTE DE TRABALHO\3ANO\2SEM\CG\TRABALHO\CG\SRC\BUILD\CMAKEFILES\183E221D908A413C0621A21BD913CC6D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src" "-BC:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pedro/OneDrive/Ambiente de Trabalho/3ano/2sem/CG/trabalho/CG/src/build/class1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/marga/OneDrive/Ambiente de Trabalho/CG/src/engine/build/CMakeFiles/engine.dir
+C:/Users/marga/OneDrive/Ambiente de Trabalho/CG/src/engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/marga/OneDrive/Ambiente de Trabalho/CG/src/engine/build/CMakeFiles/ZERO_CHECK.dir
